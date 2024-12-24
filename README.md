@@ -10,8 +10,8 @@
 
 
 
--Building the future, one line of code at a time.
-Also, I might have a few bugs to fix... 🐞💻
+  -Building the future, one line of code at a time.
+   Also, I might have a few bugs to fix... 🐞💻
 
 
 
