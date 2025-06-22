@@ -1,6 +1,15 @@
  👋 Hi, I’m @Apz2003
  
-- Passionate about crafting seamless user experiences with UI/UX design, building dynamic frontend interfaces, and exploring the depths of backend engineering
+- Creative problem-solver specializing in bridging design and
+ development to build intuitive, high-performance user
+ interfaces. Expert at translating Figma prototypes into
+ functional, accessible web applications using modern
+ frontend technologies (HTML/CSS, JavaScript, React).
+ Passionate about implementing design systems, optimizing
+ user flows, and ensuring pixel-perfect execution while
+ maintaining code quality. Collaborates closely with cross
+functional teams to deliver seamless digital experiences that
+ balance aesthetic appeal with technical feasibility.
   
 - 📫 How to reach me buddiniapsara@gmail.com
 - 🔧 Currently developing an Event Management System app using Flutter and Firebase.
@@ -26,6 +35,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
