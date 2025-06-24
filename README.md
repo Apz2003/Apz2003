@@ -45,3 +45,6 @@ functional teams to deliver seamless digital experiences that
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+📜 **Certifications**:
+[![UX Design Certificate](https://img.shields.io/badge/Foundations_of_UX_Design-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/9bb0cce2d5d9aa67672e4e4e72d8b257)
+
