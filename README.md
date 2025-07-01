@@ -12,11 +12,7 @@ functional teams to deliver seamless digital experiences that
  balance aesthetic appeal with technical feasibility.
   
 - 📫 How to reach me buddiniapsara@gmail.com
-- 🔧 Currently developing an Event Management System app using Flutter and Firebase.
-- 🚀 Working on a Package-Delivering Drone Project for a campus assignment.
 - 💻 Skilled in Git, GitHub, and other version control tools for collaborative, clean, and efficient code management.
-
-
 
 
   -Building the future, one line of code at a time.
