@@ -1,5 +1,8 @@
  👋 Hi, I’m Apsara
- 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81d9b0d9-9d56-46e1-9b84-ca6e94e87469" width="400" />
+</p>
+
 - Creative problem-solver specializing in bridging design and
  development to build intuitive, high-performance user
  interfaces. Expert at translating Figma prototypes into
