@@ -3,16 +3,7 @@
   <img src="https://github.com/user-attachments/assets/81d9b0d9-9d56-46e1-9b84-ca6e94e87469" width="400" />
 </p>
 
-- Creative problem-solver specializing in bridging design and
- development to build intuitive, high-performance user
- interfaces. Expert at translating Figma prototypes into
- functional, accessible web applications using modern
- frontend technologies (HTML/CSS, JavaScript, React).
- Passionate about implementing design systems, optimizing
- user flows, and ensuring pixel-perfect execution while
- maintaining code quality. Collaborates closely with cross
-functional teams to deliver seamless digital experiences that
- balance aesthetic appeal with technical feasibility.
+
   
 - 📫 How to reach me buddiniapsara@gmail.com
 - 💻 Skilled in Git, GitHub, and other version control tools for collaborative, clean, and efficient code management.
