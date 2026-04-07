@@ -46,12 +46,9 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 Passionate developer skilled in **clean code**, **version control** (Git & GitHub), and creating delightful user experiences. I love turning ideas into reality with code and design.
 
 **Currently building the future...** one commit at a time ✨
-
----
-
 Feel free to reach out — I'd love to connect! 💌
