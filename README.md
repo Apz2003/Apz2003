@@ -45,10 +45,3 @@
 [![Foundations of UX Design](https://img.shields.io/badge/Foundations_of_UX_Design-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/9bb0cce2d5d9aa67672e4e4e72d8b257)
 
 ---
-
-###  About Me
-
-Passionate developer skilled in **clean code**, **version control** (Git & GitHub), and creating delightful user experiences. I love turning ideas into reality with code and design.
-
-**Currently building the future...** one commit at a time ✨
-Feel free to reach out — I'd love to connect! 💌
